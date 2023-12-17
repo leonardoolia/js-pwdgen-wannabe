@@ -20,9 +20,12 @@ const passwordNumber = '21';
 console.log(passwordNumber);
 
 // Generiamo la password (6)
-
 const userPassword = firstName + secondName + favoriteColor + passwordNumber;
 console.log(userPassword);
+
+// Scriviamo la password sulla pagina (7)
+element.innerHTML = message + `<strong> ${userPassword} </strong>`;
+
 
 
 
