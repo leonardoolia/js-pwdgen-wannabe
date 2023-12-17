@@ -29,4 +29,17 @@ Poi facciamo il commit e il secondo push
 - Iniziate stampando un `console.log('JS OK')` per assicurarvi che la pagina sia  correttamente collegata.  
 - Commentate ogni micro step e subito dopo verificate col (`console.log()`)  
 - **Disattivate Live Server** finchè lavoriamo coi prompt o gli alert perchè potrebbe dar luogo a comportamenti strani
-Buon lavoro e buon weekend! 
+Buon lavoro e buon weekend!    
+
+
+
+
+
+
+# Scomponiamo il problema
+
+1. Dichiariamo le variabili nome, cognome, colore preferito e 21.
+1. Chiediamo all'utente: nome, cognome, colore preferito.
+1. Salviamo i dati nelle variabili.
+1. Generiamo password con i dati che l'utente ci ha fornito.
+1. Scriviamo la password sulla pagina.
