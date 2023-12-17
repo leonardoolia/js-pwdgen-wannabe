@@ -1,4 +1,8 @@
-//Dichiariamo le variabili e chiediamo nome, cognome, colore (1,2)
+// Recuperiamo l'elemento HTML
+const element = document.getElementById('element');
+console.log(element);
+
+//Dichiariamo le variabili e chiediamo nome, cognome, colore (2,3)
 const firstName = prompt('Qual è il tuo nome?', 'Leonardo');
 console.log(firstName);
 
