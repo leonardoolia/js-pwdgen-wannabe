@@ -38,6 +38,7 @@ Buon lavoro e buon weekend!
 
 # Scomponiamo il problema
 
+1. Recuperiamo l'elemento HTML
 1. Dichiariamo le variabili nome, cognome, colore preferito e 21.
 1. Chiediamo all'utente: nome, cognome, colore preferito.
 1. Salviamo i dati nelle variabili.
